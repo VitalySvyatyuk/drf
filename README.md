@@ -1,0 +1,1 @@
+Init core project for Django with Django REST Framework projects with ViewSets
